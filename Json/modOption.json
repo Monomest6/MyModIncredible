@@ -2,7 +2,7 @@
     {
         "name": "NewCiv",
         "leaderName": "Monomest de PDV",
-        "adjective": "Monosois",
+        "adjective": ["Monosois"],
         "startBias": ["Coast"],
         "preferredVictoryType": "Diplomatic",
 
@@ -16,7 +16,14 @@
 
         "neutralHello": "Salutations",
         "hateHello": "Retirez vos soldats, le reste, je m'en tape.",
-
+        "neutralLetsHearIt": ["Cela mérite consiération", "Interresant", "Mmmhmm"],
+        "neutralNo": ["Oui, mais non.", "Non.", "Sans façon."],
+        "neutralYes": ["Oui.","Bien sur !","Parfaitement."],
+        "hateLetsHearIt": ["Parle !!","Plus Fort !!"],
+        "hateNo": ["Pitoyable !","Le temps est précieux, pas vous !","Pffff..."],
+        "hateYes": ["C'est bien pour cette fois.","On est pas ami hein...","C'est la derniere fois !"],
+        
+        "afterPeace": "Je suis content de cette paix, sincèrement.",
         "tradeRequest": "Ce serait fort dommage de m'avoir comme ennemi, non ?",
 
         "outerColor": [45,32,190],
