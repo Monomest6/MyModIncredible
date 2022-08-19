@@ -31,7 +31,7 @@
         "favoredReligion": "Taoism",
         "uniqueName": "La Grande Ligue",
         "uniques": ["Recieve free [Settler] when you discover [Writing]", "[Settler] is produced [50]% faster"],
-        "cities": ["Pont De Vaux", "Leipzig", "La City De Los Muertos", "Lyon", "Nîmes", "Ales", "Dornhan", "Berlin", "Paris", "EcoCityMuertos", "TownCityVille", "Land of World", "Carrabistouille City", "SiSiJeVaisLeFaire",
+        "cities": ["JoiesEtBonheurs", "Leipzig", "La City De Los Muertos", "Lyon", "Nîmes", "AllesGut", "MoisEtAnnees", "Berlin", "Paris", "EcoCityMuertos", "TownCityVille", "Land of World", "Carrabistouille City", "SiSiJeVaisLeFaire",
         "Gloire A Moi", "MerciPourTout", "Bravo", "Pour", "Le Nombre", "De Villes !"]
     }
 ]
